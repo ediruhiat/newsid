@@ -1,18 +1,23 @@
 {
   "name": "newsid",
   "version": "1.0.0",
-  "description": "",
+  "description": "Breaking news in your terminal, here and now.",
+  "author": "Edi Ruhiat",
+  "repository": "https://github.com/ediruhiat/newsid.git",
+  "license": "MIT",
   "main": "dist/index.js",
   "bin": {
     "newsid": "./dist/index.js"
   },
   "scripts": {
-    "build": "npx tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "news",
+    "indonesia",
+    "breaking news",
+    "cli news"
+  ],
   "dependencies": {
     "@types/figlet": "^1.5.6",
     "axios": "^1.4.0",
