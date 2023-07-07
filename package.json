@@ -1,0 +1,25 @@
+{
+  "name": "newsid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/figlet": "^1.5.6",
+    "axios": "^1.4.0",
+    "chalk": "4.1.2",
+    "commander": "^11.0.0",
+    "figlet": "^1.6.0",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.0",
+    "typescript": "^5.1.6"
+  }
+}
