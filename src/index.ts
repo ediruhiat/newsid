@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import moment from 'moment';
 import { Command } from 'commander'
 import { PLATFORMS, getBreakingNews } from './options';
