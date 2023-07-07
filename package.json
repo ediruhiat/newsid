@@ -1,6 +1,6 @@
 {
   "name": "newsid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Breaking news in your terminal, here and now.",
   "author": "Edi Ruhiat",
   "repository": "https://github.com/ediruhiat/newsid.git",
