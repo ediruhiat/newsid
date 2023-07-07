@@ -15,17 +15,6 @@ Install this project with npm
 npm install -g newsid
 ```
 
-Install this project with yarn
-
-```shell
-yarn global add newsid
-```
-
-Install this project with pnpm
-
-```shell
-pnpm install -g newsid
-```
 ## Usage/Examples
 #### Show Help
 ```shell
