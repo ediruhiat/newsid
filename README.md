@@ -4,7 +4,7 @@
 Breaking news in your terminal, here and now.
 
 ## Description
-Newsid is a terminal (CLI) application to show a list of breaking news from various platform in Indonesia like CNN, CNBC, Kumparan, Tribun, etc. It's simply show a list of breaking news with a title, post time and of course related link to the platform website. It uses open-source API [Berita Indo API](https://github.com/satyawikananda/berita-indo-api.git) by [satyawikananda](https://github.com/satyawikananda).
+Newsid is a terminal (CLI) application that displays a list of breaking news from various platforms in Indonesia, such as CNN, CNBC, Kumparan, Tribun, and more. It simply presents a list of breaking news with their titles, post times, and relevant links to the respective platform's website. This application utilizes the open-source API called [Berita Indo API](https://github.com/satyawikananda/berita-indo-api.git) developed by [satyawikananda](https://github.com/satyawikananda).
 
 
 ## Installation
